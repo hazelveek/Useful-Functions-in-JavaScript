@@ -10,5 +10,4 @@ Some Functions i have found useful over time
 
 ### * Easily Manipulate Firebae Snapshot
 - Convert Firebase Realtime Database Snapshot to Array (
-    It is recursive so it even converts nested objects to arrays to
- )
+    It is recursive so it even converts nested objects to arrays)
