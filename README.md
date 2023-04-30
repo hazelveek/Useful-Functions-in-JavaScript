@@ -8,6 +8,6 @@ Some Functions i have found useful over time
 ### * Covert Decimal to any Base
 - Convert Decimal to Binary
 
-### * Easily Manipulate Firebae Snapshot
+### * Easily Manipulate Firebase Snapshot
 - Convert Firebase Realtime Database Snapshot to Array (
     It is recursive so it even converts nested objects to arrays)
